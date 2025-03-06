@@ -1,0 +1,298 @@
+.first-section{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.584), rgba(0, 0, 0, 0)), url(Banner\ Image.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 1250px;
+    margin-left:30px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 15px 15px 5px 5px;
+    
+}
+.hero-area{
+    color: aliceblue;
+    padding-top: 240px;
+    width: 336px;
+    margin: auto;
+}
+.hero-area>h1{
+    font-size: 50px;
+    margin-top: -15px;
+    
+}
+.hero-area>p{
+    font-size: 25px;
+}
+
+/* second section code start */
+
+.second-section{
+    margin-top: 50px;
+    text-align: center;
+   
+}
+.letter-setion>p{
+    color: red;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    font: bold;
+}
+.letter-setion>h5{
+    color: red;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    margin-top: -20px;
+}
+.letter-setion>h3{
+    font-size: 30px;
+    font: bold;
+    letter-spacing: 5px;
+    margin-top: -15px;
+}
+.new-year-Photo{
+    width: 1300px;
+    height: 500px;
+    margin-top: 50px;
+    margin-top: -10px;
+}
+
+/* third secton code start here */
+
+.third-section{
+    background-image: linear-gradient(90deg, rgba(2, 0, 36, 0.959) 0%, rgba(30, 30, 30, 0.831) 35%, rgba(0, 213, 255, 0.139) 100%), url(Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1280px;
+    height: 600px;
+    margin-top: 50px;
+    overflow: hidden;
+    
+}
+.letter-section2{
+    color: aliceblue;
+    margin-top: 150px;
+    
+}
+.letter-section2> h1{
+    font-size: 64px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5px;
+    margin-top: 100px;
+    width: 700px;
+    margin-left: 100px;
+}
+.letter-section2>p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 18px;
+    margin-left: 100px;
+    width: 750px;
+    letter-spacing:2px;
+
+}
+.button{
+    margin-left: 100px;
+    margin-top: 40px;
+    
+}
+.button>input{
+    padding: 10px 15px;
+    font-size: 15px;
+    background-color: rgba(0, 0, 0, 0);
+    color: aliceblue;
+    border: none;
+    box-shadow: 3px 3px 5px rgb(0, 121, 235),
+    -3px -3px  5px rgb(0, 121, 235);
+    cursor: pointer;
+
+}
+
+/* fouth section code start here */
+
+.fouth-section{
+    background-color: rgba(255, 234, 234, 0.445);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.fouth-section>h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.third-line{
+    margin: -10px 0px;
+}
+.four{
+    font-size: 20px;
+}
+.four>h5>span{
+    color: red;
+}
+.button2>input{
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    border-radius: 10px 10px 10px 10px ;
+    color:aliceblue
+}
+
+/* fifth section code start here */
+
+.fifth-section{
+    margin-top: 50px;
+    width: 1320px;
+    height: 463px;
+
+}
+.fifth-section-img{
+    width: 250px;
+    height: 250px;
+    border: 15px solid red;
+    border-radius: 463px;
+    padding: 30px 30px;
+    margin-top: 50px;
+    margin-left: -300px;
+    
+}
+.fifth-section-img>img{
+    width: 250px;
+    height: 250px;
+}
+.fifth5{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.fifth-section-text{
+    width: 393px;
+    height: 255px;
+    margin: 50px;
+}
+
+.fifth-section-text> h5{
+    font-size: 18px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 250px;
+}
+.fifth-section-text>h1{
+    font-size: 48px;
+    margin-top: -15px;
+    font-family: "Merriweather", serif;
+    width: 300px;
+}
+.fifth-section-text>p{
+    font-family: "Merriweather", serif;
+    font-size: 20px;
+    margin-top: -20px;
+    width: 393px;
+}
+.Habibur1>h1{
+    font-size: 50px;
+    font: bold;
+    color: red;
+}
+.Habibur1{
+    margin-top: 70px;
+   width: 276px;
+   height: 170px;
+   margin-left: -300px;
+}
+.Habibur1>img{
+    width: 140px;
+    height: 140px;
+}
+
+/* six section code start here */
+
+.habibur{
+    width: 1320px;
+    
+}
+.img-div{
+    margin-top: 50px;
+   
+   
+    
+}
+.six-img{
+  display: grid;
+  
+  
+}
+
+/* seven section coode start here */
+
+.seven-section{
+    width: 1320px;
+    height: 616px;
+    text-align: center;
+    background-color: rgb(255, 242, 242);
+    margin: 100px 0px;
+    
+}
+.seven-text{
+   
+    padding-top: 200px;
+}
+.seven-text>img{
+    font-size: 50px;
+}
+.seven-text>h1{
+    font-size: 50px;
+    
+}
+.seven-text>p{
+    width: 896px;
+    margin-left: 220px;
+}
+
+
+footer{
+    width: 100%;
+    height: 609px;
+    background-color: black;
+}
+.footer-first-part{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    padding-top: 100px;
+    margin: 0px 50px;
+}
+.icons{
+    width: 200px;
+}
+.icons>i{
+    color: aliceblue;
+}
+hr{
+    margin-top: 150px;
+    width: 1100px;
+}
+
+.icons2{
+    text-align: center;
+    margin-top: 50px;
+}
+.hr2{
+    margin-top: 50px;
+}
+.last-text{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+    margin-top: 50px;
+}
